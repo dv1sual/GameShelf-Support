@@ -6,26 +6,22 @@ GameShelf is a game tracking app for iPhone. Track your library, log play time, 
 
 [Open an issue](https://github.com/dv1sual/GameShelf-Support/issues) and use the template below:
 
----
+```
+App Version:
+iOS Version:
+Device Model:
 
-**App Version:**
-
-**iOS Version:**
-
-**Device Model:**
-
-**Description:**
+Description:
 [Please describe the issue here]
 
-**Steps to Reproduce:**
+Steps to Reproduce:
 1.
 2.
 3.
 
-**Screenshot:**
+Screenshot:
 [Attach a screenshot if applicable]
-
----
+```
 
 ## Download
 
