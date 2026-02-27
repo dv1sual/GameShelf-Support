@@ -9,7 +9,9 @@ GameShelf is a game tracking app for iPhone. Track your library, log play time, 
 ---
 
 **App Version:**
+
 **iOS Version:**
+
 **Device Model:**
 
 **Description:**
